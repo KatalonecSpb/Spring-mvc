@@ -9,13 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb292856-adab-4604-92c7-d26531d78cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDAOImp.java" afterDir="false" />
+    <list default="true" id="eb292856-adab-4604-92c7-d26531d78cbe" name="Changes" comment="Create DAO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/CarsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/dao/CarDAOImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDAOImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,8 +183,19 @@
       <workItem from="1674311969600" duration="575000" />
       <workItem from="1674312554782" duration="3027000" />
       <workItem from="1674315879882" duration="1372000" />
-      <workItem from="1674481726802" duration="1832000" />
+      <workItem from="1674481726802" duration="2326000" />
+      <workItem from="1674510771905" duration="1626000" />
+      <workItem from="1674517025725" duration="797000" />
+      <workItem from="1674566068473" duration="1562000" />
     </task>
+    <task id="LOCAL-00001" summary="Create DAO">
+      <created>1674485333388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674485333388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,5 +211,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create DAO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create DAO" />
   </component>
 </project>
